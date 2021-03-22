@@ -1,7 +1,7 @@
 # Portfolio
 
 * Machine Learning
-Citi Bike Trip
+<p>Citi Bike Trip</p>
 
 * Natural Language Processing
-Corona: Beer or Virus 
+<p>Corona: Beer or Virus</p>
