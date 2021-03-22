@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 
 ## Machine Learning
 <p>Citi Bike Trip</p>
