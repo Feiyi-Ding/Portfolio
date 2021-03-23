@@ -1,5 +1,5 @@
 # Corona: Beer or Virus
-**The HTML file is the best way to view this project!**
+**The PDF file is the best way to view this project!**
 ### Description
 <p>The beer brand Corona had a name clash with the pandemic. At first, many people think that the pandemic could destroy the brand and the company even 
   thought about changing its brand name. However, another group of scholars think that the pandemic is giving Corona a boost. This project evaluates how 
